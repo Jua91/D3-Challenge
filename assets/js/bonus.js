@@ -106,7 +106,7 @@ function updateTooltip(chosenX,chosenY,circlesGroup){
 
 
 
-d3.csv("/assets/data/data.csv").then(function(data){
+d3.csv("assets/data/data.csv").then(function(data){
     
     // data cleaning
     data.forEach(d=>{
