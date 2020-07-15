@@ -4,5 +4,5 @@ The task is to analyze the current trends shaping people's lives, as well as cre
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml). The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
-The page can be accessed [here]().
+The page can be accessed [here](https://jua91.github.io/D3-Challenge/).
 
